@@ -1,0 +1,14 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Archive"
+    url: /year-archive/
+  #- title: "Craftsmanship Tools"
+  #  url: /tools/
+  #- title: "Interesting Reads"
+  #  url: /interestingreads/
+  #- title: "Useful Stuff"
+  #  url: /usefulstuff/
+  - title: "About"
+    url: /about/
