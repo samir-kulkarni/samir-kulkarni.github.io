@@ -4,34 +4,34 @@ permalink: /
 title: Samir Kulkarni
 author_profile: false
 header:
-   overlay_color: "#000"
+   overlay_color: "#0000FF"
    overlay_filter: "0.5"
    overlay_image: "/assets/images/samir_profile.jpg"
    cta_label: "About me"
    cta_url: "/about/"
-excerpt: "A tech guy writing about music, life and personal stuff."
-description: "I am Aravind, a tech guy, a scientist and computer engineer by training, writing about music, life and personal stuff. My writings cover stories about music, playlists and albums, human emotions and ordinary things that make us human, and narrations of things happening in my ordinary life."
-og_image: "/assets/images/self-sketch-splash.jpg"
+excerpt: "A tech guy writing about technology, life and personal stuff."
+description: "My name is Samir Kulkarni. I am not a pro but avid photo shooter. Capturing the moments and cherishing them makes my busy life soother. It provides me opportunity to look back and enjoy watching those still moments and memories around them. Same applies to tech world. All the good things in the past are foundation to my approach to embracing new technologies."
+og_image: "/assets/images/samir_profile.jpg"
 feature_collections:
-  - image_path: /assets/images/music-naka-cover.jpg
-    alt: "Collage of cover images of Music Naka posts"
-    title: "Music Naka"
-    excerpt: 'Playlists, music albums, stories about how they were made or how I found them.'
-    url: "/music-naka/"
+  - image_path: /assets/images/tech_collage.jpg
+    alt: "Collage of cover images of tech posts"
+    title: "Technology"
+    excerpt: 'Technologies that drive us <br> <br> '
+    url: "/tech/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/only-human-cover.jpg
-    alt: "Collage of cover images of Only Human posts"
-    title: "Only Human"
+  - image_path: /assets/images/nature_collage.jpg
+    alt: "Collage of cover images of Photography posts"
+    title: "Photography"
     excerpt: 'Things we do, emotions we feel and little everyday things that make us human.'
-    url: "/only-human/"
+    url: "/photos/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/blog-cover.jpg
-    alt: "Collage of cover images of blog posts"
-    title: "Personal Blog"
-    excerpt: 'Sundry observations about events, travels, tech and stuff in an ordinary life.'
-    url: "/blog/"
+  - image_path: /assets/images/read_collage.jpg
+    alt: "Collage of cover images of Good Reads posts"
+    title: "Good Reads"
+    excerpt: 'Something that I find good to read. <br> <br> '
+    url: "/reads/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
