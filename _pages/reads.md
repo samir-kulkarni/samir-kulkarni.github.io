@@ -14,9 +14,7 @@ Something that I find good to read.
 ## Latest stories
 
 <div class="grid__wrapper">
-  {% assign collection = 'Reads' %}
-  {% assign posts = site[collection] | reverse %}
-  {% for post in posts %}
+  {% for post in site.categories.reads %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>

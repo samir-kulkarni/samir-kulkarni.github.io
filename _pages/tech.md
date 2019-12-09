@@ -14,9 +14,7 @@ How technologies disrupts our lives and make impact on our day to day being. I w
 ## Latest stories
 
 <div class="grid__wrapper">
-  {% assign collection = 'Technology' %}
-  {% assign posts = site[collection] | reverse %}
-  {% for post in posts %}
+  {% for post in site.categories.tech %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>

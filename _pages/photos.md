@@ -14,9 +14,7 @@ I am not a pro but avid photo shooter. Capturing the moments and cherishing them
 ## Latest stories
 
 <div class="grid__wrapper">
-  {% assign collection = 'Photography' %}
-  {% assign posts = site[collection] | reverse %}
-  {% for post in posts %}
+  {% for post in site.categories.Photography %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>

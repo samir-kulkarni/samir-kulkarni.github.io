@@ -237,3 +237,21 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+
+# Site search from Algolia
+search: true
+search_provider: "algolia"
+algolia:
+  application_id: TGZWYSUVK6
+  index_name: samir_index
+  search_only_api_key: 68aa13f01c4f059ff82bf8eaf6c518fa
+  powered_by: "true"
+  files_to_exclude:
+    - _pages/blog.md
+    - _pages/home.md
+    - _pages/photos.md
+    - _pages/reads.md
+    - _pages/tech.md
+    - _pages/sitemap.md
+    - _drafts/*.md
