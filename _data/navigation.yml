@@ -2,6 +2,12 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Technology"
+    url: /tech/
+  - title: "Photography"
+    url: /photos/
+  - title: "Good Reads"
+    url: /reads/
   - title: "Archive"
     url: /year-archive/
   #- title: "Craftsmanship Tools"

@@ -11,3 +11,5 @@ Gemfile.lock
 node_modules
 npm-debug.log*
 vendor/**
+.DS_Store
+../assets/.DS_Store
