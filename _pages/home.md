@@ -35,5 +35,11 @@ feature_collections:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+## Latest stories
+
+<div class="grid__wrapper">
+  {% for post in site.posts %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
 
 {% include feature_row id="feature_collections" %}
