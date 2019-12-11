@@ -39,7 +39,20 @@ feature_collections:
 
 <div class="grid__wrapper">
   {% for post in site.posts %}
+    <div class="archive">
     {% include archive-single.html type="grid" %}
+    </div>
   {% endfor %}
+</div>
+
+<div class="grid__wrapper">
+  {% for i in (1..4) %}
+    {% assign offset = forloop.index0 %}
+      {% for post in site.posts offset:offset %}
+        <div class="archive">
+        {% include archive-single.html type="grid" %}
+        </div>
+       {% endfor %}
+{% endfor %}
 
 {% include feature_row id="feature_collections" %}
