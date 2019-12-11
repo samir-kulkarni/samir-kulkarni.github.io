@@ -38,10 +38,8 @@ feature_collections:
 ## Latest stories
 
 <div class="grid__wrapper">
-  {% for post in site.posts %}
-    <div class="archive">
+  {% for post in site.posts limit:4 %}
     {% include archive-single.html type="grid" %}
-    </div>
   {% endfor %}
 </div>
 
