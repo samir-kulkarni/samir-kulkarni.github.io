@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Early Morning at Udaipur"
-date: 2019-12-01 21:04:00 +0530
+date: 2009-10-24 21:04:00 +0530
 author_profile: true
 comments: true
 toc: false
