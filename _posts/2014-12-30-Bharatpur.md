@@ -20,4 +20,4 @@ Bharatpur. Keoladeo bird sanctury opens gates to adobe of birds. Some common tha
 
 ![Peacock]({{site.url}}/assets/images/blogs/blog-1.jpg)
 
-![Peacock at Sunrise]({{site.url}}/assets/images/blogs/bog-2.jpg)
+![Peacock at Sunrise]({{site.url}}/assets/images/blogs/blog-2.jpg)
