@@ -23,6 +23,6 @@ There are many times that we came across irrational decisions and some of the de
 
 Recently, I came across a colletion of Cognitive Biases
 
-https://humanhow.com/en/list-of-cognitive-biases-with-examples/
+[List of cognitive biases](https://humanhow.com/en/list-of-cognitive-biases-with-examples/)
 
 Do have a look at a comphrensive list of biases that shape our decision making.
