@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "A trip to Chittorgarh"
-date: 2019-12-08 17:32:00 +0530
+date: 2010-08-22 17:32:00 +0530
 author_profile: true
 comments: true
 toc: false
