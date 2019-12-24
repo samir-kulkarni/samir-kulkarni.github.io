@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Hello"
+title: "Cognitive Biases"
 date: 2019-12-25 23:12:00 +0530
 author_profile: true
 comments: true
