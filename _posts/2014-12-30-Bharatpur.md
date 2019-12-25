@@ -34,3 +34,23 @@ A beautiful morning sunlight gives great light perspectives.
 ![Grass at sunrise]({{site.url}}/assets/images/blogs/blog-4.jpg)
 
 ![Peacocks at sunrise]({{site.url}}/assets/images/blogs/blog-5.jpg)
+
+Sarus crane is amazing sight and highlight of visit to Keoladeo. Got a chance on pair of Sarus Crane pair. Yes, they always seen in pairs.
+
+![Sarus Crane]({{site.url}}/assets/images/blogs/blog-7.jpg)
+
+![Sarus Crane Pair]({{site.url}}/assets/images/blogs/blog-8.jpg)
+
+![Sarus Crane Pair]({{site.url}}/assets/images/blogs/blog-9.jpg)
+
+![Sarus Crane Pair]({{site.url}}/assets/images/blogs/blog-10.jpg)
+
+![Sarus Crane in Flight]({{site.url}}/assets/images/blogs/blog-11.jpg)
+
+![Sarus Crane]({{site.url}}/assets/images/blogs/blog-12.jpg)
+
+![Sarus Crane]({{site.url}}/assets/images/blogs/blog-13.jpg)
+
+Indian Roller looks awsome in flight with different blue shades sparding over wings. 
+
+![Indian Roller]({{site.url}}/assets/images/blogs/blog-14.jpg)
