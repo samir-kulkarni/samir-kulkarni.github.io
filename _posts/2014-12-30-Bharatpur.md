@@ -36,7 +36,7 @@ A beautiful morning sunlight gives great light perspectives.
 ![Peacocks at sunrise]({{site.url}}/assets/images/blogs/blog-5.jpg)
 
 Sarus crane is amazing sight and highlight of visit to Keoladeo. Got a chance on pair of Sarus Crane pair. Yes, they always seen in pairs. This beautiful creature is the tallest flying bird in the world, standing at a height of up to 5’9″. They’re not hard to spot with their large gray bodies and bright red faces and have become an iconic species of open wetlands.
-Much like other cranes, the Sarus Crane forms long-lasting pair bonds and are considered symbols of marital fidelity in India. It is believed that the cranes mate for life and pine the loss of their mates even to the point of starving to death. Although, rare cases of “divorce” have been observed.
+Much like other cranes, the Sarus Crane forms long-lasting pair bonds and are considered symbols of marital fidelity in India. It is believed that the cranes mate for life and pine the loss of their mates even to the point of starving to death. 
 
 ![Sarus Crane]({{site.url}}/assets/images/blogs/blog-7.jpg)
 
