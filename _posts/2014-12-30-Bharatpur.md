@@ -62,6 +62,6 @@ Parrots are common sight but seldom gives poses.
 
 ![Parrot]({{site.url}}/assets/images/blogs/blog-15.jpg)
 
-Foxes are widely seen.
+Jackals are widely seen.
 
 ![Fox]({{site.url}}/assets/images/blogs/blog-17.jpg)
