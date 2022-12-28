@@ -45,7 +45,7 @@ twitter_username: samirkulkarni
 github_username:  samir-kulkarni
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 
 
 # Exclude from processing.
